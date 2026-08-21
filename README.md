@@ -24,3 +24,5 @@
 -
 -[ordenamientos](https://github.com/caneloluna19-sudo/entrega-de-proyecto-3.0/blob/main/escuela/Ordenamientos.java)
 -
+-[Readme](https://github.com/caneloluna19-sudo/entrega-de-proyecto-3.0/blob/main/escuela/README.md)
+-
